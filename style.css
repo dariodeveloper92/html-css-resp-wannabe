@@ -71,3 +71,11 @@ img {
 .clear {
   clear: both;
 }
+
+/* Media Query */
+@media (max-width: 419px) {
+  .yellow {
+    background-color: rgb(252, 252, 135);
+  }
+
+}
