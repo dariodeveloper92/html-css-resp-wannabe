@@ -78,7 +78,7 @@ img {
     background-color: rgb(252, 252, 135);
   }
   img {
-    width: 100px;
+    width: 120px;
     height: 100px;
   }
   .bottom{
@@ -101,7 +101,7 @@ img {
   margin: -14px;
  }
  .row {
-   width: 300px;
+   width: 410px;
    margin-top: 0;
  }
  #why .row>.first,
@@ -109,6 +109,6 @@ img {
  #why .row>.third {
  width: 100%;
  margin-top: 0px;
-} 
+ } 
 }
 
